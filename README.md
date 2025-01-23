@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Gustavo / Logick12 ✨ </h1> 
+<h1 align="center">Hola 👋  soy Gustavo Pinedo / Logick12 ✨ </h1> 
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
